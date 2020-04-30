@@ -1,0 +1,28 @@
+﻿  PauModule.cpp
+d:\enginepau\enginepau\graphicengineenti\render\vertexdeclarationbuffer.h(19): warning C4091: 'static ': ignored on left of 'const VtxPosColor' when no variable is declared
+d:\enginepau\enginepau\graphicengineenti\render\vertexdeclarationbuffer.h(26): warning C4091: 'static ': ignored on left of 'const VtcPosColorUV' when no variable is declared
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(47): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(55): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(62): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+d:\enginepau\enginepau\graphicengineenti\modules\paumodule.cpp(66): warning C4244: 'argument': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+d:\enginepau\enginepau\graphicengineenti\modules\rendermodule.h(40): warning C4172: returning address of local variable or temporary
+d:\enginepau\enginepau\graphicengineenti\render\camera\camera.h(36): warning C4172: returning address of local variable or temporary
+  GraphicEngineEnti.vcxproj -> D:\EnginePau\EnginePau\bin\x64\GraphicEngineEnti.exe
